@@ -35,6 +35,6 @@
 | Komenda | Opis | Permisja |
 | ------------- | ------------- | ------------- |
 | /is | Lista komend dostępna dla gracza | kislands.player |
-| /is name | Zmiana nazwy wyspy | kislands.player.namme |
+| /is name | Zmiana nazwy wyspy | kislands.player.name |
 | - | Nazwa wyspy z kolorami | kislands.player.name.color |
 | /is go | Teleportuje na wyspe | kislands.player.go |
